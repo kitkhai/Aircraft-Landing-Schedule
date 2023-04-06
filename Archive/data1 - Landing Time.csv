@@ -1,0 +1,11 @@
+Appearance Time,Earliest Landing Time,Target Landing Time,Latest Landing Time,penalty cost per unit of time for landing before target,penalty cost per unit of time for landing after target
+54,129,155,559,10,10
+120,195,258,744,10,10
+14,89,98,510,30,30
+21,96,106,521,30,30
+35,110,123,555,30,30
+45,120,135,576,30,30
+49,124,138,577,30,30
+51,126,140,573,30,30
+60,135,150,591,30,30
+85,160,180,657,30,30
