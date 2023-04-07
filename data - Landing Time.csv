@@ -1,4 +1,4 @@
-Aircraft ID,Earliest Landing Slot,Target Landing Slot,Latest Landing Slot,Penalty cost per time slot of landing before target,Penalty cost per time slot of landing after target,Size
+Airplane ID,Earliest Landing Slot,Target Landing Slot,Latest Landing Slot,Penalty cost per time slot of landing before target,Penalty cost per time slot of landing after target,Size
 0,3,4,12,10,10,3
 1,4,6,15,10,10,3
 2,2,2,11,30,30,2
